@@ -1,0 +1,17 @@
+body{
+    background-image: url(fundo-escuro-abstrato-com-ondas-coloridas.jpg);
+}
+
+h2{
+    background-color: white;
+    color: blue;
+    font-size: larger;
+}
+
+h1{
+    color: red;
+}
+
+h3{
+    color: white;
+}
