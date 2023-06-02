@@ -1,0 +1,22 @@
+.cabecalho {background-color: #604e48;
+            padding: 12px;
+            color: #dae5ab;}
+
+.conteudo {
+    padding-bottom: 30px;
+}
+
+.rodape     {background-color: #604e48;
+            padding: 30px;
+            color: #dae5ab;
+            position: fixed;
+            bottom: 0px;
+            width: 100%;
+        }
+
+h1{ font-size: medium;
+    text-align: center;}
+
+
+
+
